@@ -121,8 +121,8 @@ const Order = () => {
 
           <RoomCarousel
             images={[
-              "https://i.ibb.co/vvgzbNN6/chambre-1.png",
-              "https://i.ibb.co/WvmBtbX5/chambre-1bis.png",
+              "/images/chambres/chambre-1.webp",
+              "/images/chambres/chambre-1bis.webp",
             ]}
           />
         </div>
