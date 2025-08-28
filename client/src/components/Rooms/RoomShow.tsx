@@ -7,20 +7,20 @@ function RoomShow() {
         <div className="md:flex md:justify-center">
           <RoomCarousel
             images={[
-              "https://i.ibb.co/vvgzbNN6/chambre-1.png",
-              "https://i.ibb.co/WvmBtbX5/chambre-1bis.png",
+              "chambres/chambre-1.webp",
+              "chambres/chambre-1bis.webp",
             ]}
           />
         </div>
 
         <div className="md:flex md:gap-5 md:justify-center flex md:mt-0 mt-5 ">
           <img
-            src="https://i.ibb.co/rKJSVMdg/chambre-4.png"
+            src="chambres/chambre-4.webp"
             alt="room 2"
             className=" md:mr-0 mr-5 md:w-50 w-42 object-cover rounded-2xl "
           />
           <img
-            src="https://i.ibb.co/FLyQPQrD/chambre-5.png"
+            src="chambres/chambre-5.webp"
             alt="room 3"
             className=" md:w-50 w-42 object-cover rounded-2xl "
           />

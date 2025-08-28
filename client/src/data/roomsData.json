@@ -2,8 +2,8 @@
   {
     "id": 0,
     "images": [
-      "https://i.ibb.co/vvgzbNN6/chambre-1.png",
-      "https://i.ibb.co/WvmBtbX5/chambre-1bis.png"
+      "chambres/chambre-1.webp",
+      "chambres/chambre-1bis.webp"
     ],
     "title": "Le Coquelicot",
     "description": "Cette chambre lumineuse aux touches rouges vives vous plonge dans une ambiance chaleureuse. Lit double, petit bureau et vue sur le jardin fleuri offrent un cadre reposant.",
@@ -18,8 +18,8 @@
   {
     "id": 1,
     "images": [
-      "https://i.ibb.co/W43KnWqx/chambre-2.png",
-      "https://i.ibb.co/gFJwG09C/chambre-2bis.png"
+      "chambres/chambre-2.webp",
+      "chambres/chambre-2bis.webp"
     ],
     "title": "La Lavande",
     "description": "Dominante de violet pastel et mobilier en bois clair, cette chambre invite à la détente. La grande fenêtre laisse entrer le parfum subtil des champs environnants.",
@@ -34,8 +34,8 @@
   {
     "id": 2,
     "images": [
-      "https://i.ibb.co/h1TMbCy9/chambre-3.png",
-      "https://i.ibb.co/tTz3t8hZ/chambre-3bis.png"
+      "chambres/chambre-3.webp",
+      "chambres/chambre-3bis.webp"
     ],
     "title": "Le Tournesol",
     "description": "Couleurs chaudes et imprimés floraux, cette chambre ensoleillée rayonne toute la journée. Lit queen-size, chaise longue et table de nuit en rotin complètent l’ensemble.",
@@ -50,8 +50,8 @@
   {
     "id": 3,
     "images": [
-      "https://i.ibb.co/rKJSVMdg/chambre-4.png",
-      "https://i.ibb.co/dssyjW6J/chambre-4bis.png"
+      "chambres/chambre-4.webp",
+      "chambres/chambre-4bis.webp"
     ],
     "title": "L’Érable",
     "description": "Avec ses murs couleur crème et son mobilier en bois d’érable, cette chambre dégage une élégance naturelle. Le coin lecture près de la fenêtre vous invite à la rêverie.",
@@ -66,8 +66,8 @@
   {
     "id": 4,
     "images": [
-      "https://i.ibb.co/FLyQPQrD/chambre-5.png",
-      "https://i.ibb.co/gMHvKrHd/chambre-5bis.png"
+      "chambres/chambre-5.webp",
+      "chambres/chambre-5bis.webp"
     ],
     "title": "La Glycine",
     "description": "Ambiance romantique avec ses voilages légers et son papier peint à motif glycines. Lit à baldaquin, bougeoirs en fer forgé et parquet ancien créent un charme d’antan.",
@@ -82,8 +82,8 @@
   {
     "id": 5,
     "images": [
-      "https://i.ibb.co/SwJ5tycP/chambre-6final.png",
-      "https://i.ibb.co/3mKBMSfD/chambre-6bis.png"
+      "chambres/chambre-6final.webp",
+      "chambres/chambre-6bis.webp"
     ],
     "title": "Le Nid Douillet",
     "description": "Petite chambre cosy aux tons neutres, idéale pour une escapade en duo. Couette moelleuse, suspensions douces et rangements pratiques pour un séjour minimaliste.",
