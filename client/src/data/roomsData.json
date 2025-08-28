@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "images": ["//chambres/chambre-1.webp", "/chambres/chambre-1bis.webp"],
+    "images": ["/chambres/chambre-1.webp", "/chambres/chambre-1bis.webp"],
     "title": "Le Coquelicot",
     "description": "Cette chambre lumineuse aux touches rouges vives vous plonge dans une ambiance chaleureuse. Lit double, petit bureau et vue sur le jardin fleuri offrent un cadre reposant.",
     "price": "75 €/ nuit",
