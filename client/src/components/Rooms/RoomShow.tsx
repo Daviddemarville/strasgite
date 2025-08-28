@@ -6,7 +6,10 @@ function RoomShow() {
       <div className="md:flex md:flex-col md:gap-5">
         <div className="md:flex md:justify-center">
           <RoomCarousel
-            images={["/images/chambres/chambre-1.webp", "/images/chambres/chambre-1bis.webp"]}
+            images={[
+              "/images/chambres/chambre-1.webp",
+              "/images/chambres/chambre-1bis.webp",
+            ]}
           />
         </div>
 
