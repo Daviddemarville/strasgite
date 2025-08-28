@@ -120,10 +120,7 @@ const Order = () => {
           {/*-------------------------------Room Picture----------------------------------*/}
 
           <RoomCarousel
-            images={[
-              "/images/chambres/chambre-1.webp",
-              "/images/chambres/chambre-1bis.webp",
-            ]}
+            images={["/chambres/chambre-1.webp", "/chambres/chambre-1bis.webp"]}
           />
         </div>
         <div className="border-t pt-4 space-y-1 grid grid-cols-2 gap-3">
